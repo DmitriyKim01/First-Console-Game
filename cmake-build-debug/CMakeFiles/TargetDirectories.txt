@@ -1,0 +1,3 @@
+/home/dmitriykim/C++/Lessons/FirstGame_v2/cmake-build-debug/CMakeFiles/FirstGame_v2.dir
+/home/dmitriykim/C++/Lessons/FirstGame_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitriykim/C++/Lessons/FirstGame_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

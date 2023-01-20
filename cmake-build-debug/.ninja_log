@@ -1,0 +1,20 @@
+# ninja log v5
+383	486	1674068588019526865	FirstGame_v2	63c717e502421d19
+1	351	1674068587883528368	CMakeFiles/FirstGame_v2.dir/main.cpp.o	9671c4a81d59e2b6
+1	344	1674068587875528456	CMakeFiles/FirstGame_v2.dir/src/Player.cpp.o	b733dcb43904753
+1	383	1674068587915528014	CMakeFiles/FirstGame_v2.dir/src/Map.cpp.o	208565b4e9cb5f83
+2	83	1674157984652354222	CMakeFiles/FirstGame_v2.dir/src/Monster.cpp.o	427c8ae90d3d8b38
+1	361	1674157984930350631	CMakeFiles/FirstGame_v2.dir/main.cpp.o	9671c4a81d59e2b6
+2	374	1674157984935350566	CMakeFiles/FirstGame_v2.dir/src/Map.cpp.o	208565b4e9cb5f83
+1	382	1674157984950350372	CMakeFiles/FirstGame_v2.dir/src/Player.cpp.o	b733dcb43904753
+382	466	1674157985036349261	FirstGame_v2	3ba5fd0c9ba07cfc
+0	315	1674158015465956140	CMakeFiles/FirstGame_v2.dir/src/Map.cpp.o	208565b4e9cb5f83
+315	422	1674158015573954744	FirstGame_v2	3ba5fd0c9ba07cfc
+2	300	1674158034598708963	CMakeFiles/FirstGame_v2.dir/src/Map.cpp.o	208565b4e9cb5f83
+1	303	1674158034608708834	CMakeFiles/FirstGame_v2.dir/main.cpp.o	9671c4a81d59e2b6
+1	310	1674158034614708756	CMakeFiles/FirstGame_v2.dir/src/Player.cpp.o	b733dcb43904753
+310	385	1674158034690707774	FirstGame_v2	3ba5fd0c9ba07cfc
+1	12	1674158168036216621	CMakeFiles/FirstGame_v2.dir/src/Player.cpp.o	b733dcb43904753
+1	13	1674158168036216621	CMakeFiles/FirstGame_v2.dir/src/Map.cpp.o	208565b4e9cb5f83
+1	278	1674158168298213910	CMakeFiles/FirstGame_v2.dir/main.cpp.o	9671c4a81d59e2b6
+278	353	1674158168381213051	FirstGame_v2	3ba5fd0c9ba07cfc
