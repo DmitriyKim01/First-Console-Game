@@ -1,3 +1,4 @@
 # First-Console-Game
 
-Run only on linux!
+This game is made as a practice for C++ (not finished)
+
